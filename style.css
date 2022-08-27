@@ -6,7 +6,6 @@ html {
     height: 100vh;
     font-family: 'Inter', sans-serif;
     font-family: 'Noto Sans JP', sans-serif;
-    scroll-snap-type: y;
 }
 
 #particles-js {
@@ -217,9 +216,6 @@ span {
     color: #fff;
 }
 
-.area {
-    scroll-snap-align: start;
-}
 
 a {
     text-decoration: none;
